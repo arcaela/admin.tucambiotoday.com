@@ -1,0 +1,7 @@
+RewriteEngine on
+RewriteBase /api/
+RewriteCond $1 !^(index.php)
+RewriteRule ^(.*)$ index.php/$1 [L]
+<IfModule mod_headers.c>
+    Header set Access-Control-Allow-Origin "*"
+</IfModule>

@@ -1,0 +1,8 @@
+{
+	"HEADER_DESCRIPTION":"Tucambiotoday la unica plataforma que permite el envio de remesas, rápido, seguro y confiable.",
+	"ID_REQUIRED":"Debes verificar tu identidad",
+	"SMS_REQUIRED":"Se requiere verificacion por SMS",
+	"IS_LIST_AMOUNT":"Los montos están limitados en este anuncio.",
+	"FROM":"Desde",
+	"To":"Hasta"
+}

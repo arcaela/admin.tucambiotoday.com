@@ -1,0 +1,12 @@
+{
+	"tags":[
+			{"tag":"meta", "charset":"utf-8"},
+			{"tag":"meta", "name":"theme-color", "content":"#00d1b2"},
+			{"tag":"link", "rel":"canonical", "href":"%{URL}%"},
+			{"tag":"meta", "http-equiv":"X-UA-Compatible", "content":"IE=edge"},
+			{"tag":"meta", "name":"viewport","content":"width=device-width, initial-scale=1"},
+			{"tag":"link", "rel":"icon","type":"image/png","href":"%{URL}%cdn/img/favicon.png", "sizes":"32x32"},
+			{"tag":"meta", "name":"description","content":"%{HEADER_DESCRIPTION}%"}
+	]
+
+}

@@ -1,0 +1,14 @@
+{
+	"default":{
+		"host":"localhost",
+		"user":"user_mwallet",
+		"password":"po%40aZ#eRCJ",
+		"database":"mwallett"
+	},
+	"blockchain":{
+		"host":"localhost",
+		"user":"user_mwallet",
+		"password":"po%40aZ#eRCJ",
+		"database":"blockchain"
+	}
+}
